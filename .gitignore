@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+*.so
+*.npz
+*.zip
+*.ckpt
+*.ckpt.*
+*.h5
+assignment3/cs231n/datasets/coco_captioning
+.vscode/
+cifar-10-batches-py/
+__pycache__/
+build/
+MNIST_data/
